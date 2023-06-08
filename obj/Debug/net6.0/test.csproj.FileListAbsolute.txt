@@ -1,0 +1,15 @@
+/Users/sigridlu/Projects/test/test/bin/Debug/net6.0/test
+/Users/sigridlu/Projects/test/test/bin/Debug/net6.0/test.deps.json
+/Users/sigridlu/Projects/test/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/sigridlu/Projects/test/test/bin/Debug/net6.0/test.dll
+/Users/sigridlu/Projects/test/test/bin/Debug/net6.0/test.pdb
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.dll
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/refint/test.dll
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.pdb
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/sigridlu/Projects/test/test/obj/Debug/net6.0/ref/test.dll
